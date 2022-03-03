@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on C-ing #
-- 🌱 I’m currently learning SO MUCH STUFF!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: jenn@jennithe.dev
-- ⚡ Fun fact: ...
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 
