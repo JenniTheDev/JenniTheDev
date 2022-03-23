@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C-ing #
+- 🔭 I’m currently working on C-ing # and Blazor-ing into the future
 
 ## &#x1f4c8; GitHub Stats
 
